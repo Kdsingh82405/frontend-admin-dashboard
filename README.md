@@ -57,15 +57,5 @@ src/
 npm install
 npm run dev
 
-## Screenshots
-
-### Login
-(screenshots/login.png)
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Users
-![Users](screenshots/users.png)
 
 
