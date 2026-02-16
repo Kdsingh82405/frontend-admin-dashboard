@@ -60,7 +60,7 @@ npm run dev
 ## Screenshots
 
 ### Login
-![Login](screenshots/login.png)
+(screenshots/login.png)
 
 ### Dashboard
 ![Dashboard](screenshots/dashboard.png)
